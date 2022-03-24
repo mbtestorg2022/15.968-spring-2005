@@ -93,7 +93,7 @@ Burt, Ronald S. _Towards a Structural Theory of Action_. New York, NY: Academic 
 
 ———. "Range." In _Applied Network Analysis_. Edited by Ronald S. Burt, and Michael J. Minor. 1983. ISBN: 0803919077.
 
-———. "Bridge Decay." In _Social Networks_. 2002. Forthcoming. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.9936&rep=rep1&type=pdf))
+———. "Bridge Decay." In _Social Networks_. 2002. Forthcoming. ([PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.9936&rep=rep1&type=pdf))
 
 ———. "Structural Holes vs. Network Closure as Social Capital." In _Social Capital: Theory and Research_. Edited by Nan Lin, Karen S. Cook, and R. S. Burt. 2001. Aldine de Gruyter. ([PDF](http://snap.stanford.edu/class/cs224w-readings/burt00capital.pdf))
 
